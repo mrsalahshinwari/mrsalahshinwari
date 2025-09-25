@@ -6,7 +6,7 @@ I am a **Data Analyst & Computer Science Lecturer** from Pakistan 🇵🇰
 - 🔭 I’m currently working on: **Data Science & AI Projects**  
 - 🌱 I’m currently learning: **Machine Learning & Deep Learning**  
 - 💬 Ask me about: **Python, Excel, Power BI, Data Visualization**  
-- 📫 How to reach me: **youremail@example.com**  
+- 📫 How to reach me: **mr.Salah033@gmail.com**  
 
 ---
 

@@ -166,7 +166,7 @@
   <br clear="left"><br>
 
   <!-- Exploring New Tech -->
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
+  <img src="https://cdn-icons-png.flaticon.com3135715.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
   Love to <b>explore new technologies & ideas</b>  
   <br clear="left"><br>
 

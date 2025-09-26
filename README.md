@@ -99,12 +99,36 @@
 
 ---
 
-## 🛠️ Tools I Use
-- 📊 **Excel (Advanced: Power Query, Power Pivot, Macros)**  
-- 📈 **Power BI & Tableau** for dashboards  
-- 🐼 **Pandas & NumPy** for analysis  
-- 🎨 **Seaborn, Matplotlib, Plotly** for visualization  
-- 🌐 **Figma & WordPress** for design and development  
+## 🛠️ Tools I Use  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20Query-1ABC9C?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Power%20Pivot-27AE60?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Macros-884EA0?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Seaborn-0099CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
 
 ---
 

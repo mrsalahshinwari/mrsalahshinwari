@@ -154,7 +154,7 @@
 
 ## ✨ Fun Facts  
 
-<p align="center">
+<p align="left">
 
   <!-- Watching Dramas -->
   <img src="https://cdn-icons-png.flaticon.com/512/4370/4370978.png" width="50" height="50" alt="Drama Icon"/>  
@@ -168,15 +168,12 @@
   <!-- Exploring New Tech -->
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" alt="Explore Icon"/>  
   🌍 Love to <b>explore new technologies & ideas</b>  
-
-
-
+  
   <!-- Coffee + Coding -->
   <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="50" height="50" alt="Coffee"/>  
   ☕ <b>Coffee + Coding = Perfect day</b>  
 
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=Always+Curious+%F0%9F%92%AC;Lifelong+Learner+%F0%9F%93%9A;Data+Lover+%F0%9F%93%8A;Tech+Explorer+%F0%9F%8C%8D" alt="Typing Animation"/>  
-
 </p>
 

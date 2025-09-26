@@ -1,6 +1,6 @@
 # Hi there 👋, Nice to see you
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=I+am+Salahuddin+Shinwari;+Professionnal+Data+Analyst;+%7C+Tools+I+Know+about;Python+%7C+Excel+%7C+Power+BI+%7CTableau%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=600&lines=I+am+Salahuddin+Shinwari;+Professional+Data+Analyst;+%7C+Tools+I+Know+about;Python+%7C+Excel+%7C+Power+BI+%7CTableau%7C+SQL)](https://git.io/typing-svg)
 
 ---
 
@@ -12,42 +12,57 @@
 
 ---
 
+## 🔑 Features & Expertise
+- 📊 **Data Analysis** (cleaning, preprocessing, insights)  
+- 📈 **Data Visualization** (Seaborn, Matplotlib, Plotly)  
+- 📑 **Work with Excel** (Formulas, Power Query, Pivot Tables, VBA Macros)  
+- 📊 **Work with Power BI & Tableau** (dashboards & storytelling with data)  
+- 🐼 **Data Analysis with Pandas & NumPy**  
+- 🔎 Exploratory Data Analysis (EDA)  
+- 🧠 Problem solving with data-driven approaches  
+
+---
+
 ## 🎓 My Background
-- 🏫 Teaching **Computer Science** (O Level & A Level, F.Sc, Matric)  
-- 📊 100+ freelance projects completed in **Data Analysis & Visualization**  
+- 📊 Completed **100+ freelance projects** in **Data Analysis & Visualization**  
 - 🎥 Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CodeGlamor)  
-- 📚 Lifelong learner: exploring **statistics, AI, and new technologies**  
+- 📚 Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
+- 🌐 Experienced in **web development & UI/UX design (WordPress, Figma)**  
 
 ---
 
 ## 💡 Languages I Work With
-- 🐍 Python  
-- 📊 SQL (MySQL)  
-- 📑 HTML, CSS, JavaScript  
-- 📗 C++ (Teaching OOP)  
+- 🐍 **Python** → Pandas, NumPy, Seaborn, Matplotlib, Plotly  
+- 📊 **SQL (MySQL)**  
+- 🌐 **HTML, CSS, JavaScript**  
+- ⚙️ **C and C++**  
 
 ---
 
 ## 🛠️ Tools I Know
 - 📊 **Excel (Advanced: Power Query, Power Pivot, Macros)**  
-- 📈 **Power BI** & **Tableau**  
-- 🐼 **Pandas & NumPy** for data analysis  
-- 🎨 **Figma** & **Adobe Illustrator** for design  
-- 🌐 **WordPress Development**  
+- 📈 **Power BI & Tableau** for dashboards  
+- 🐼 **Pandas & NumPy** for analysis  
+- 🎨 **Seaborn, Matplotlib, Plotly** for visualization  
+- 🌐 **Figma & WordPress** for design and development  
 
 ---
 
 ## 🌐 Social Media Handles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)[YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeGlamor)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)  
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@CodeGlamor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Salahuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="languages" width="41%" />
+</p>
 
 ---
 

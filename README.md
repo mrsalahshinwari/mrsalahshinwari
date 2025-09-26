@@ -1,6 +1,6 @@
 # Hi there 👋, Nice to see you
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=40000&color=c27e79&Left=true&vCenter=true&width=700&lines=I+am+Salahuddin+Shinwari;+Professional+Data+Analyst;+Tools+I+Know+about;+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5000&color=c27e79&Left=true&vCenter=true&width=700&lines=I+am+Salahuddin+Shinwari;+Professional+Data+Analyst;+Tools+I+Know+about;+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL)](https://git.io/typing-svg)
 
 ---
 

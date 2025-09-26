@@ -133,7 +133,7 @@
 ---
 
 ## 🌐 Social Media Handles
-<p align="left" style="margin:20px;">
+<p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@CodeGlamor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -143,12 +143,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&custom_title=My+Stats&line_height=28&count_private=true&include_all_commits=true&card_width=400&bg_color=141321&title_color=ffffff&text_color=9f9f9f&icon_color=2f81f7" alt="stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
 </p>
 
-⚡ *Demo values → Imagine these stats showing `⭐ 20 contributions this week` and `🔥 10 repositories active`.*  
 
 ---
 
@@ -158,22 +157,22 @@
 
   <!-- Watching Dramas -->
   <img src="https://cdn-icons-png.flaticon.com/512/4370/4370978.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  🕹️ I enjoy watching <b>Pakistani & Turkish history dramas</b>  
+  I enjoy watching <b>Pakistani & Turkish history dramas</b>  
   <br clear="left"><br>
 
   <!-- Reading Books -->
   <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  📖 Reading books on <b>Data Analysis & Visualization</b>  
+  Reading books on <b>Data Analysis & Visualization</b>  
   <br clear="left"><br>
 
   <!-- Exploring New Tech -->
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  🌍 Love to <b>explore new technologies & ideas</b>  
+  Love to <b>explore new technologies & ideas</b>  
   <br clear="left"><br>
 
   <!-- Coffee + Coding -->
   <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  ☕ <b>Coffee + Coding = Perfect day</b>  
+  <b>Tea + foods + Coding = Perfect day</b>  
   <br clear="left"><br>
 
   <!-- Animated Typing Effect -->

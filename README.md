@@ -15,14 +15,14 @@
 ## 🔑 Features & Expertise  
 
 <p align="left">
-  <!-- Data Analysis -->
+  <!-- Data Analysis --> <br>
   <img src="https://img.shields.io/badge/-Data%20Analysis-2F81F7?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Data%20Cleaning-FF6F00?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Preprocessing-1E8449?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Insights-6C3483?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- Visualization -->
   <img src="https://img.shields.io/badge/-Visualization-F39C12?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seaborn-0099CC?style=flat-square" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Plotly-3f4f75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- Excel -->
   <img src="https://img.shields.io/badge/-Excel%20Mastery-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Formulas-117A65?style=flat-square" />
@@ -39,26 +39,26 @@
   <img src="https://img.shields.io/badge/-VBA%20Macros-884EA0?style=flat-square" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- BI Tools -->
   <img src="https://img.shields.io/badge/-Business%20Intelligence-8E44AD?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- Pandas & NumPy -->
   <img src="https://img.shields.io/badge/-Python%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- Exploratory Data Analysis -->
   <img src="https://img.shields.io/badge/-EDA-34495E?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="left"> <br>
   <!-- Problem Solving -->
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>

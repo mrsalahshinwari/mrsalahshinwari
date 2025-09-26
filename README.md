@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/-EDA-34495E?style=for-the-badge&logo=google-analytics&logoColor=white" /> <br>
 </p>
 
-<p align="left"> <br>
+<p align="left"> 
   <!-- Problem Solving -->
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>

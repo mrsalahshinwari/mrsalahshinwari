@@ -18,8 +18,8 @@
 - 📑 **Work with Excel** (Formulas, Power Query, Pivot Tables, VBA Macros)  
 - 📊 **Work with Power BI & Tableau** (dashboards & storytelling with data)  
 - 🐼 **Data Analysis with Pandas & NumPy**  
-- 🔎 Exploratory Data Analysis (EDA)  
-- 🧠 Problem solving with data-driven approaches  
+- 🔎 **Exploratory Data Analysis (EDA)**  
+- 🧠 Problem solving with **data-driven approaches**  
 
 ---
 
@@ -32,10 +32,24 @@
 ---
 
 ## 💡 Languages I Work With
-- 🐍 **Python** → Pandas, NumPy, Seaborn, Matplotlib, Plotly  
-- 📊 **SQL (MySQL)**  
-- 🌐 **HTML, CSS, JavaScript**  
-- ⚙️ **C and C++**  
+- 🐍 **Python & Libraries**  
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?style=flat&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white)  
+  ![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat&logo=plotly&logoColor=white)  
+
+- 📊 **Databases**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+- 🌐 **Web Development**  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+- ⚙️ **Programming**  
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
 
 ---
 
@@ -60,13 +74,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="languages" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&custom_title=My+Stats&line_height=28&count_private=true&include_all_commits=true&card_width=400&bg_color=141321&title_color=ffffff&text_color=9f9f9f&icon_color=2f81f7" alt="stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
 </p>
+
+⚡ *Demo values → Imagine these stats showing `⭐ 20 contributions this week` and `🔥 10 repositories active`.*  
 
 ---
 
 ## ✨ Fun Facts
-- 🕹️ I enjoy watching **Pakistani romantic dramas**  
-- 📖 Currently reading: Books on **Data Science & Islamic History**  
+- 🕹️ I enjoy watching **Pakistani & Turkish history dramas**  
+- 📖 Reading books on **Data Analysis & Visualization**  
+- 🌍 Love to **explore new technologies & ideas**  
 - ☕ Coffee + Coding = Perfect day  

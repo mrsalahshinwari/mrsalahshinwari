@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=c27e79&Left=true&vCenter=true&width=1000&lines=I+am+Salahuddin+Shinwari;+Expert+Data+Analyst;+Tools+I+Know+about;+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau+%7C+SQL+%7C)](https://git.io/typing-svg)
 
-___
 
 ## 👤 Who I am
-___
 - I am a Data Analyst, Machine Learning and Deep Learning Engineer, and a Lecturer in Computer Science.
 - Passionate about **Data Science, Artificial Intelligence, and Teaching**  
 - Currently learning **Agent AI And Computer Vision**  
@@ -14,7 +12,6 @@ ___
 
 
 ## Features & Expertise  
-___
 <p align="left">
   <!-- Data Analysis --> 
   <img src="https://img.shields.io/badge/-Data%20Analysis-2F81F7?style=for-the-badge&logo=databricks&logoColor=white" /> <br>
@@ -64,11 +61,7 @@ ___
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>
 
-
----
-
 ## 🎓 My Background
-___
 - Completed **30+ freelance projects** in **Data Analysis & Visualization**
 - Completed **15+ freelance projects** in **UI/UX and Wordpress**
 -  Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
@@ -77,7 +70,6 @@ ___
 
 
 ## Languages & Libraries I Work With  
-___
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -89,7 +81,6 @@ ___
 
 
 ## Databases & Web Development  
-___
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -100,7 +91,6 @@ ___
 </p>
 
 ## Tools I Use  
-___
 <p align="left">
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20Query-1ABC9C?style=flat-square" />
@@ -130,7 +120,6 @@ ___
 </p>
 
 ##  Social Media Handles
-___
 <p align="left">
 <a href="https://www.linkedin.com/in/salah-ud-din-63733426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@CD033"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -139,14 +128,13 @@ ___
 </p>
 
 ##  GitHub Stats
-___
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&custom_title=My+Stats&line_height=28&count_private=true&include_all_commits=true&card_width=400&bg_color=141321&title_color=ffffff&text_color=9f9f9f&icon_color=2f81f7" alt="stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
 </p>
 
 ##  Fun Facts  
-___
 <p>
 
   <!-- Watching Dramas -->

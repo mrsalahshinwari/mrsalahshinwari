@@ -5,15 +5,16 @@
 ---
 
 ## 👤 Who I am
-- 💻 I am a Data Analyst, Machine Learning and Deep Learning Engineer, and a Lecturer in Computer Science.
-- 🎯 Passionate about **Data Science, Artificial Intelligence, and Teaching**  
-- 🌱 Currently learning **Agent AI And Computer Vision**  
-- 🚀 Vision: To become a **Data Scientist** and help others unlock the power of data  
+---
+- I am a Data Analyst, Machine Learning and Deep Learning Engineer, and a Lecturer in Computer Science.
+- Passionate about **Data Science, Artificial Intelligence, and Teaching**  
+- Currently learning **Agent AI And Computer Vision**  
+- Vision: To become a **Data Scientist** and help others unlock the power of data  
 
 ---
 
-## 🔑 Features & Expertise  
-
+## Features & Expertise  
+---
 <p align="left">
   <!-- Data Analysis --> 
   <img src="https://img.shields.io/badge/-Data%20Analysis-2F81F7?style=for-the-badge&logo=databricks&logoColor=white" /> <br>
@@ -67,14 +68,15 @@
 ---
 
 ## 🎓 My Background
-- 📊 Completed **30+ freelance projects** in **Data Analysis & Visualization**
-- 🌐  Completed **15+ freelance projects** in **UI/UX and Wordpress**
-- 🎥 Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
-- 📚 Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
+---
+- Completed **30+ freelance projects** in **Data Analysis & Visualization**
+- Completed **15+ freelance projects** in **UI/UX and Wordpress**
+-  Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
+- Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
 
 ---
 
-## 💡 Languages & Libraries I Work With  
+## Languages & Libraries I Work With  
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,7 +89,7 @@
 
 ---
 
-## 🗄️ Databases & Web Development  
+## Databases & Web Development  
 <p align="left">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -99,8 +101,8 @@
 
 ---
 
-## 🛠️ Tools I Use  
-
+## Tools I Use  
+----
 <p align="left">
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20Query-1ABC9C?style=flat-square" />
@@ -132,7 +134,8 @@
 
 ---
 
-## 🌐 Social Media Handles
+##  Social Media Handles
+---
 <p align="left">
 <a href="https://www.linkedin.com/in/salah-ud-din-63733426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@CD033"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -142,7 +145,8 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
+---
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&custom_title=My+Stats&line_height=28&count_private=true&include_all_commits=true&card_width=400&bg_color=141321&title_color=ffffff&text_color=9f9f9f&icon_color=2f81f7" alt="stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
@@ -151,8 +155,8 @@
 
 ---
 
-## ✨ Fun Facts  
-
+##  Fun Facts  
+---
 <p>
 
   <!-- Watching Dramas -->

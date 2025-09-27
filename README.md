@@ -11,7 +11,7 @@ ___
 - Currently learning **Agent AI And Computer Vision**  
 - Vision: To become a **Data Scientist** and help others unlock the power of data  
 
----
+
 
 ## Features & Expertise  
 ___
@@ -74,7 +74,7 @@ ___
 -  Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
 - Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
 
----
+
 
 ## Languages & Libraries I Work With  
 ___
@@ -87,7 +87,6 @@ ___
   <img src="https://img.shields.io/badge/-Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
----
 
 ## Databases & Web Development  
 ___
@@ -99,8 +98,6 @@ ___
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
-
----
 
 ## Tools I Use  
 ___
@@ -132,9 +129,6 @@ ___
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-
----
-
 ##  Social Media Handles
 ___
 <p align="left">
@@ -144,17 +138,12 @@ ___
 <a href="mailto:mr.salah033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 ##  GitHub Stats
 ___
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&custom_title=My+Stats&line_height=28&count_private=true&include_all_commits=true&card_width=400&bg_color=141321&title_color=ffffff&text_color=9f9f9f&icon_color=2f81f7" alt="stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&langs_count=6&card_width=320" alt="languages" width="41%" />
 </p>
-
-
----
 
 ##  Fun Facts  
 ___

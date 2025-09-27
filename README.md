@@ -166,8 +166,8 @@
   <br clear="left"><br>
 
   <!-- Exploring New Tech -->
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="50" align="left" style="margin-right:15px;"/>  
-  Love to <b>explore new technologies & ideas</b>  
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" height="50" align="left" style="margin-right:15px;"/>
+  Love to <b>Explore New Technologies, Ideas & Play With Data</b>  
   <br clear="left"><br>
 
   <!-- Coffee + Coding -->

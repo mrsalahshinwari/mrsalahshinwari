@@ -5,9 +5,9 @@
 ---
 
 ## 👤 Who I am
-- 💻 A Computer Science Lecturer & Data Analyst  
+- 💻 I am a Data Analyst, Machine Learning and Deep Learning Engineer, and a Lecturer in Computer Science.
 - 🎯 Passionate about **Data Science, Artificial Intelligence, and Teaching**  
-- 🌱 Currently learning **Machine Learning & Deep Learning**  
+- 🌱 Currently learning **Agent AI And Computer Vision**  
 - 🚀 Vision: To become a **Data Scientist** and help others unlock the power of data  
 
 ---

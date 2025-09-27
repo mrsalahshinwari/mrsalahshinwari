@@ -171,7 +171,7 @@
   <br clear="left"><br>
 
   <!-- Coffee + Coding -->
-   <img src="https://cdn-icons-png.flaticon.com/512/9023/9023831.png" width="50" height="50" style="margin-right:15px;"/>  
+   <img src="https://cdn-icons-png.flaticon.com/512/9023/9023831.png" height="50" align="left" style="margin-right:15px;"/>  
   <b>Tea + Coding = Perfect day</b>  
   <br clear="left"><br>
 

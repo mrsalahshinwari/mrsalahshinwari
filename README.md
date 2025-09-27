@@ -171,8 +171,8 @@
   <br clear="left"><br>
 
   <!-- Coffee + Coding -->
-  <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  <b>Tea + foods + Coding = Perfect day</b>  
+  <img src="https://cdn-icons-png.flaticon.com/512/3480/3480525.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
+  <b>Tea + Coding = Perfect day</b>  
   <br clear="left"><br>
 
   <!-- Animated Typing Effect -->

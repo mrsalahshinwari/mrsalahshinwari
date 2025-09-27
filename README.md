@@ -157,12 +157,12 @@
 
   <!-- Watching Dramas -->
   <img src="https://cdn-icons-png.flaticon.com/512/4370/4370978.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  I enjoy watching <b>Pakistani & Turkish history dramas</b>  
+  I enjoy watching <b>Turkish history dramas</b>  
   <br clear="left"><br>
 
   <!-- Reading Books -->
   <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" width="50" height="50" align="left" style="margin-right:15px;"/>  
-  Reading books on <b>Data Analysis & Visualization</b>  
+  Read About <b>Data Analysis, Visualization, Data Science, philosophy   </b>  
   <br clear="left"><br>
 
   <!-- Exploring New Tech -->

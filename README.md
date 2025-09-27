@@ -61,12 +61,11 @@
   <img src="https://img.shields.io/badge/-Problem%20Solving-DC143C?style=for-the-badge&logo=thinkpad&logoColor=white" />
 </p>
 
-## 🎓 My Background
+## My Background
 - Completed **30+ freelance projects** in **Data Analysis & Visualization**
 - Completed **15+ freelance projects** in **UI/UX and Wordpress**
 -  Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
 - Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
-
 
 
 ## Languages & Libraries I Work With  
@@ -123,7 +122,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/salah-ud-din-63733426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@CD033"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/Mrsalah55627337?t=vHnvdbbGm9xUnWqt5Kyyuw&s=08 "><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:mr.salah033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

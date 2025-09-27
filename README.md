@@ -68,7 +68,7 @@
 
 ## 🎓 My Background
 - 📊 Completed **100+ freelance projects** in **Data Analysis & Visualization**  
-- 🎥 Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CodeGlamor)  
+- 🎥 Running my own **YouTube channel** [CodeGlamor](https://www.youtube.com/@CD033)  
 - 📚 Lifelong learner: always exploring **AI, statistics, and emerging technologies**  
 - 🌐 Experienced in **web development & UI/UX design (WordPress, Figma)**  
 
